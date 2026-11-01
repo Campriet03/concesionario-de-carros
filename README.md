@@ -197,10 +197,12 @@ La publicación debe mantener las rutas relativas usadas por la página:
 
 No se encontró configuración de despliegue ni flujo de CI/CD en el repositorio.
 
+## Autor
+Camilo Prieto
+
 ## Información pendiente
 
 - Definir y documentar una licencia.
-- Confirmar el nombre completo del autor o autores y el canal de contacto oficial.
 - Definir destinos reales para los enlaces sociales.
 - Implementar destinos funcionales para los botones `Detalles →`.
 - Confirmar si los precios, potencias, velocidades y datos de catálogo corresponden a valores vigentes.
